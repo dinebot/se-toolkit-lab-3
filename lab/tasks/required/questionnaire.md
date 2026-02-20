@@ -29,4 +29,4 @@ Fill in each answer below. Replace `___` with the correct value.
 ## Authentication
 
 1. What happens when you call an endpoint without the API key? (status code): 403
-2. Where do you set the API key value for Docker Compose? (file name): in authorization on http://127.0.0.1:42001/docs
+2. Where do you set the API key value for Docker Compose? (file name): .env.docker.secret
