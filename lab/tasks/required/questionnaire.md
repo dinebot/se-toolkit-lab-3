@@ -6,7 +6,7 @@ Fill in each answer below. Replace `___` with the correct value.
 
 ### GET /items
 
-1. HTTP method: 
+1. HTTP method: GET
 2. Path: /items
 3. Status code (success): 200
 4. Response type (array or object): application/json
